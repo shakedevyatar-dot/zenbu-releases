@@ -1,0 +1,35 @@
+{
+  "name": "ZENBU",
+  "identifier": "com.evyatar.zenbu.source",
+  "subtitle": "Manga, manhwa and anime in one place",
+  "iconURL": "https://raw.githubusercontent.com/shakedevyatar-dot/zenbu-releases/main/icon.png",
+  "tintColor": "E11D2E",
+  "apps": [
+    {
+      "name": "ZENBU",
+      "bundleIdentifier": "com.evyatar.zenbu",
+      "developerName": "ZENBU",
+      "subtitle": "Manga, manhwa and anime",
+      "localizedDescription": "ZENBU for iPhone.",
+      "iconURL": "https://raw.githubusercontent.com/shakedevyatar-dot/zenbu-releases/main/icon.png",
+      "tintColor": "E11D2E",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "0.8",
+          "buildVersion": "8",
+          "date": "2026-11-16",
+          "downloadURL": "https://github.com/shakedevyatar-dot/zenbu-releases/releases/download/ios-0.8/ZENBU.ipa",
+          "size": 959950,
+          "minOSVersion": "16.0",
+          "localizedDescription": "ZENBU 0.8"
+        }
+      ],
+      "version": "0.8",
+      "versionDate": "2026-11-16",
+      "downloadURL": "https://github.com/shakedevyatar-dot/zenbu-releases/releases/download/ios-0.8/ZENBU.ipa",
+      "size": 959950
+    }
+  ],
+  "news": []
+}
