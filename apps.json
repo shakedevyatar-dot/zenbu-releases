@@ -16,6 +16,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "1.2",
+          "buildVersion": "13",
+          "date": "2026-11-16",
+          "downloadURL": "https://github.com/shakedevyatar-dot/zenbu-releases/releases/download/ios-1.2/ZENBU.ipa",
+          "size": 961883,
+          "minOSVersion": "16.0",
+          "localizedDescription": "ZENBU 1.2"
+        },
+        {
           "version": "1.1",
           "buildVersion": "12",
           "date": "2026-11-16",
@@ -61,10 +70,10 @@
           "localizedDescription": "ZENBU 0.8"
         }
       ],
-      "version": "1.1",
+      "version": "1.2",
       "versionDate": "2026-11-16",
-      "downloadURL": "https://github.com/shakedevyatar-dot/zenbu-releases/releases/download/ios-1.1/ZENBU.ipa",
-      "size": 961669
+      "downloadURL": "https://github.com/shakedevyatar-dot/zenbu-releases/releases/download/ios-1.2/ZENBU.ipa",
+      "size": 961883
     }
   ],
   "news": []
