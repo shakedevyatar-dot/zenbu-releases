@@ -1,0 +1,149 @@
+{
+ "version": 1,
+ "updated": "2026-11-06",
+ "sites": {
+  "nelomanga": {
+   "domains": [
+    "nelomanga.net"
+   ]
+  },
+  "asura": {
+   "domains": [
+    "asurascans.com",
+    "asuracomic.net"
+   ]
+  },
+  "flame": {
+   "domains": [
+    "flamecomics.xyz"
+   ]
+  },
+  "hivetoons": {
+   "domains": [
+    "hivetoons.org",
+    "hivetoon.com"
+   ]
+  },
+  "mangadex": {
+   "domains": [
+    "mangadex.org"
+   ]
+  },
+  "weebcentral": {
+   "domains": [
+    "weebcentral.com"
+   ]
+  },
+  "mangaread": {
+   "domains": [
+    "mangaread.org"
+   ]
+  },
+  "madara": {
+   "domains": [
+    "madarascans.net",
+    "madarascans.com"
+   ]
+  },
+  "violet": {
+   "domains": [
+    "violetmanga.com",
+    "violetscans.org",
+    "violetscans.com"
+   ]
+  },
+  "kingofshojo": {
+   "domains": [
+    "kingofshojo.com"
+   ]
+  },
+  "toongod": {
+   "domains": [
+    "toongod.org"
+   ]
+  },
+  "reaper": {
+   "domains": [
+    "reaperscans.com"
+   ]
+  },
+  "toonily": {
+   "domains": [
+    "toonily.com"
+   ]
+  },
+  "manhuaus": {
+   "domains": [
+    "manhuaus.com"
+   ]
+  },
+  "manhwatop": {
+   "domains": [
+    "manhwatop.com"
+   ]
+  },
+  "raven": {
+   "domains": [
+    "ravenscans.org",
+    "ravenscans.com"
+   ]
+  },
+  "mangago": {
+   "domains": [
+    "mangago.me"
+   ]
+  },
+  "comick": {
+   "domains": [
+    "comick.dev",
+    "comick.io"
+   ]
+  },
+  "kaliscan": {
+   "domains": [
+    "kaliscan.io",
+    "kaliscan.me"
+   ]
+  }
+ },
+ "animeSources": [
+  {
+   "id": "animeland",
+   "name": "Animeland",
+   "url": "https://animeland.today/",
+   "search": "",
+   "anilist": "https://animeland.today/anime/{id}"
+  },
+  {
+   "id": "aniwatchtv",
+   "name": "Aniwatch",
+   "url": "https://aniwatchtv.ro/",
+   "search": "https://aniwatchtv.ro/?s={q}"
+  },
+  {
+   "id": "9anime",
+   "name": "9anime",
+   "url": "https://9anime.si/",
+   "search": "https://9anime.si/search?q={q}"
+  },
+  {
+   "id": "animevillage",
+   "name": "Anime Village",
+   "url": "https://www.animevillage.org/",
+   "search": "https://animevillage.org/search?search={q}",
+   "anilist": "https://www.animevillage.org/anime/{id}"
+  },
+  {
+   "id": "aniwaves",
+   "name": "Aniwave",
+   "url": "https://aniwaves.ru/",
+   "search": "https://aniwaves.ru/filter?keyword={q}"
+  },
+  {
+   "id": "anikoto",
+   "name": "Anikoto",
+   "url": "https://anikoto.cz/home",
+   "search": "https://anikoto.cz/filter?keyword={q}"
+  }
+ ]
+}
